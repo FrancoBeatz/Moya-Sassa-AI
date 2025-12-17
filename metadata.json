@@ -1,0 +1,7 @@
+{
+  "name": "Moya Sassa AI",
+  "description": "An AI-powered assistant for SASSA grant inquiries, status checks, and multilingual support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
